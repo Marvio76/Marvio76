@@ -4,7 +4,6 @@
 - 🔭 Estou estudando para ser um desenvolvedor full stack.
 - 🌱 Aprendendo JavaScript
 - 😄 Pronouns: ele/deles
-- ⚡ contate-se no email: marvioty@gmail.com
 
 <div>
   <a href="https://github.com/Marvio76">
